@@ -1,0 +1,15 @@
+span {
+  margin-right: 1em;
+  cursor: pointer;
+}
+
+body {
+  text-align: center;
+}
+
+.decoration {
+  font-weight: 800;
+  border: 1px solid;
+  padding: 0 5px;
+  margin-right: 1em;
+}
